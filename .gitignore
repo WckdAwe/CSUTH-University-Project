@@ -1,8 +1,26 @@
+# Custom
+/*
+#!/Semester\ 3/
+!/Semester\ 3/
+/Semester\ 3/Computer\ Organization/
+/Semester\ 3/Operating\ Systems\ (Linux\ Introduction)/
+/Semester\ 3/Data\ Structures/Research\ -\ Fibonacci\ Heap/
+/Semester\ 3/Data\ Structures/Research\ -\ Van\ Emde\ Boas\ Trees\ (VEB\ Trees)/
+
+# GITIGNORE for C
+# Prerequisites
+*.d
+
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
 
 # Precompiled Headers
 *.gch
@@ -30,3 +48,15 @@
 
 # Debug files
 *.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf

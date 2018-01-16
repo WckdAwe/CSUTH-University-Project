@@ -1,24 +1,20 @@
 
-# The University Project
-Computer Science can be hard some times. At those moments this repository comes to the rescue!  
+# The CSUTH University Project
+Computer Science can be hard some times. At those moments this repository comes to the rescue! 
 
- But, Academic Citizens, you must always remember:  
-
-> The darkest hour of the night comes just before the dawn.
+Welcome to ***The CSUTH University Project*** . Here you will find solutions for both common and sophisticated excercises that are made to train you on how to be the next top Developer / Software or Hardware Engineer / Programmer. Most of the excercises that are solved in this repository are from the *Computer Science Department of University of Thessaly* and solved by me personaly, a student of this University. 
 
 ## Getting Started
 
-Welcome to ***The University Project*** . Here you will find solutions for both common and sophisticated excercises that are made to train you on how to be the next top Developer / Software or Hardware Engineer / Programmer. Most of the excercises that are solved in this repository are from the *Computer Science Department of University of Thessaly* and solved by me personaly, a student of this University. 
-
 ### !!!Warning!!! 
-Try to remember that these excercises are solved mostly by me, an Academic Citizen as well. As such a lot of the solutions might not be optimal and a lot of times the code can be improved. At the same time remember that you study Computer Science. We are on a field that there is never "just one solution". So if your solution doesn't much mine, but still works, then it is still an acceptable solution!
+Try to remember that these excercises are solved mostly by me, an Undergraduate Student (at the time of writing) as well. As such a lot of the solutions might not be optimal and a lot of times the code can be improved. At the same time remember that you study Computer Science. We are on a field that there is never "just one solution". So if your solution doesn't much mine, but still works, then it is still an acceptable solution!
 
 Oh, also, since i mentioned the "still works"... some of the solutions that you see here could actually be incorrect! **Excercises seen here are not verified by my professors**! So keep an eye out, will ya?
 
 ### Language
 
 Please keep in mind that most of the excercises and solutions that are shared here are from the *Computer Science Department of University of Thessaly*!
-As such, some parts of this repository are written in **English** while others in **Greek**!
+As such, some parts of this repository are written in **English** while others in **Greek**! 
 
 ## Contributing
 

@@ -1,11 +1,8 @@
 # Custom
 /*
-#!/Semester\ 3/
-!/Semester\ 3/
-/Semester\ 3/Computer\ Organization/
-/Semester\ 3/Operating\ Systems\ (Linux\ Introduction)/
-/Semester\ 3/Data\ Structures/Research\ -\ Fibonacci\ Heap/
-/Semester\ 3/Data\ Structures/Research\ -\ Van\ Emde\ Boas\ Trees\ (VEB\ Trees)/
+!/Semester\ 3
+*.zip
+
 
 # GITIGNORE for C
 # Prerequisites

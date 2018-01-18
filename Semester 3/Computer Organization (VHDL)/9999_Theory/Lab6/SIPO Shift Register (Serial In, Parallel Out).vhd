@@ -1,0 +1,23 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY SIPO IS
+PORT(
+  clk, si : IN STD_LOGIC;
+  po : INOUT STD_LOGIC_VECTOR(7 DOWNTO 0)
+);
+END SIPO;
+
+
+ARCHITECTURE arch OF SIPO IS
+
+SIGNAL tmp : STD_LOGIC_VECTOR(7 DOWNTO 0);
+BEGIN
+  PROCESS(clk)
+  BEGIN
+    IF(RISING_EDGE(clk)) THEN
+      po(7 DOWNTO 1) <= po(6 DOWNTO 0);
+      po(0) <= si;
+    END IF;
+  END PROCESS;
+END arch;

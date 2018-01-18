@@ -22,7 +22,7 @@ Please read [CONTRIBUTING.md]( ) for details on our code of conduct, and the pro
 
 ## Authors
 
-* **Dimitriadis Vasileios** (Wicked™) - *Project Conductor* -  ([Website](https://wckdawe.com) | [Git](https://github.com/wckdawe) )
+* **Dimitriadis Vasileios** (Wicked™) - *Project Conductor* -  ([Website]( http://wckdawe.com) | [Git](https://github.com/wckdawe) )
 
 See also the list of [contributors]() who participated in this project.
 

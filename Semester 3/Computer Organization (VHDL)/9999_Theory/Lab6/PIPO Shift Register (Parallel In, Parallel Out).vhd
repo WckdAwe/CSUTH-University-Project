@@ -1,0 +1,20 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY PIPO IS
+PORT(
+  clk : IN STD_LOGIC;
+  pi : IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+  po : OUT STD_LOGIC_VECTOR(7 DOWNTO 0)
+);
+END PIPO;
+
+
+ARCHITECTURE arch OF PIPO IS
+BEGIN
+  PROCESS(clk)
+  BEGIN
+    IF(RISING_EDGE(clk)) THEN po <= pi;
+    END IF;
+  END PROCESS;
+END arch;

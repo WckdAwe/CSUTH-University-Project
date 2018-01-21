@@ -18,14 +18,14 @@ As such, some parts of this repository are written in **English** while others i
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]( ) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * **Dimitriadis Vasileios** (Wicked™) - *Project Conductor* -  ( [Website]( http://wckdawe.com) | [Git](https://github.com/wckdawe) )
 * **Papageorgiou Grigoris** (Furious)
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors](https://github.com/WckdAwe/CSUTH-University-Project/blob/master/CONTRIBUTORS.md) who participated in this project.
 
 ## License
 

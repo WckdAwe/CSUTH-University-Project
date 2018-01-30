@@ -1,4 +1,3 @@
-
 # The CSUTH University Project
 Computer Science can be hard some times. At those moments this repository comes to the rescue! 
 
@@ -31,8 +30,12 @@ See also the list of [contributors](https://github.com/WckdAwe/CSUTH-University-
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-**Source Codes taken by 3d-party may be licensed differently!** 
+**Source Codes taken by 3d-party may be licensed differently!**
 
+## Disclaimer
+
+All the information on this repository is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information - see the [DISCLAIMER.md](DISCLAIMER.md) file for more details
+ 
 ## Acknowledgments
 Hats off to any person whom contributed to this Project, formally or informally. This couldn't be possible without the assistance of multiple people! :)
 
